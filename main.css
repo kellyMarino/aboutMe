@@ -1,0 +1,23 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    width: 50%;
+    margin: auto;
+    background-color: #F8EDE3;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+    
+}
+.image {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: #8D493A;
+}
+table, th, td {
+    border: 1px solid #8D493A;
+}
+
+
