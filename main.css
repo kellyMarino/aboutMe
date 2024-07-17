@@ -19,9 +19,7 @@ h1 {
 table, th, td {
     border: 1px solid #8D493A;
 }
-@media only screen and (max-width: 480px) {
-    body {
-      background-color: lightblue;
-    }
-  }
+footer{
+    padding: 12%;
+}
 
